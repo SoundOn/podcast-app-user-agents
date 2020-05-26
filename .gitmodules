@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = git@github.com:opawg/user-agents.git
+[submodule "podcast_app_user_agents/data"]
+	path = podcast_app_user_agents/data
+	url = git@github.com:opawg/user-agents.git
